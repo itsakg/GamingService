@@ -11,6 +11,33 @@ The Game Top Scores application is a Spring Boot-based microservice designed to 
 - **JWT (JSON Web Tokens)**: Used for secure authentication and authorization.
 - **JUnit & Mockito**: For unit testing and mocking dependencies.
 
+## Features
+
+- User registration and authentication
+- Record player scores
+- Retrieve top scores
+
+## Screenshots
+
+### User Registration
+
+![User Registration](Screenshots/UserRegistration.png)
+
+### Add a player score
+
+![Top Scores](Screenshots/AddPlayerScore.png)
+
+
+### Get Specific Player Score
+
+![Top Scores](Screenshots/GetSpecificPlayerScore.png)
+
+
+### Clear All Scores
+
+![Top Scores](Screenshots/ClearAllScores.png)
+
+
 ## Design Patterns
 
 ### 1. **Repository Pattern**
